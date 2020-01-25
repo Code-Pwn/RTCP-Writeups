@@ -1,10 +1,10 @@
-# Sprite Viewer
+# Work in Progress
 
-* Catagory: Web
+* Catagory: Binary/Exacutable
 
 * Points: 400
 
-* Solves: 37
+* Solves: 104
 
 I was asked to beta-test this game, but it's so incomplete, it's kind of
 doesn't even have a goal... The developer said there's a flag, though,
