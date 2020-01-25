@@ -32,7 +32,7 @@ Portal.dll: PE32 executable (console) Intel 80386 Mono/.Net assembly, for MS Win
 
 Usually if we are given an executable and a library together, the juicy bits are
 located in the library so I looked at that first. (Another factor might have 
-been, that the `.dll` was a .Net binary which has several very good decompiler).
+been, that the `.dll` was a .Net binary which has several very good decompilers).
 My weapon of choice for .Net usually is `dnSpy` but that is just because I have
 never really used any other .Net decompiler. And after looking through the file
 for a bit I found the flag.
