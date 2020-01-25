@@ -1,3 +1,12 @@
+# Sprite Viewer
+
+* Category: Web
+
+* Points: 400
+
+* Solves: 37
+
+
 # Description
 
 The developer of that work in progress game thinks there may
@@ -11,6 +20,10 @@ Hint1: https://riceteacatpanda.wtf/spview
 
 Hint2:Insert flag in MD5 format, without the rtcp{}:
 e7ad2f601c93ea0dab82416581db2dfd
+
+# Challenge
+
+Looks like we got to figure out how to extract a sprite from a Unity web game.
 
 
 # Solution
