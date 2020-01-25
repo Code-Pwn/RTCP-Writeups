@@ -2,6 +2,7 @@
 
 * Solves: 47
 * Points: 4000
+* Category: Rice Goddess
 
 So, uh, you see, when you wetuwnyed my uwu back to me, the wice goddess got a 
 bit angwy - nyow she has a giant panda weady to sit on my uwu stowage... can you 
