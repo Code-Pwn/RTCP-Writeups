@@ -1,16 +1,23 @@
-__**Description**__
+# Sprite Viewer
+
+Catagory: Web
+
+Points: 400
+
+Solves: 37
+
 I was asked to beta-test this game, but it's so incomplete, it's kind of
 doesn't even have a goal... The developer said there's a flag, though,
 so I guess I'll just leave you to it!
 
-**Hint1:**https://github.com/JEF1056/riceteacatpanda/tree/master/Work
+Hint1:https://github.com/JEF1056/riceteacatpanda/tree/master/Work
 In Progress (400)
 
-**Hint2:**Have you ever played Skyrim? Well, you don't need a horse
+Hint2:Have you ever played Skyrim? Well, you don't need a horse
 for this one.
 
 
-__**Solution**__
+# Solution
 
 Sweet! An unfinished game to break! Download the file and start up the game. 
 We got some basic controls. Left and right moment and a jump button. 
