@@ -1,6 +1,6 @@
 # Work in Progress
 
-* Catagory: Binary/Exacutable
+* Category: Binary/Exacutable
 
 * Points: 400
 
