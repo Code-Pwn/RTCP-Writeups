@@ -1,10 +1,21 @@
-The challange loads up a Unity Web Player. It has a number of characters you can swap through. There are options to view diffrent sprite animations. Looks like a chracter creater for a game. But we want just want the goblin sprite.
+*Description*
+
+
+
+The challange loads up a Unity Web Player. It has a number of characters you can swap
+through. There are options to view diffrent sprite animations. Looks like a chracter
+creater for a game. But we want just want the goblin sprite.
 
 First thing to do is open up the source code of the page. There you can find "Builds.js" 
 Go to it's URL and you get the file. Open it and you find refrences to a number of of other 
 files that Unity will load up. We are intereseted in the "Builds.data.unityweb" This file 
 should contain all the assets used. Extracting them can be a bit tricky. The file is 
-gzipped and can be unzipped. THis gets you some plain text but not an easyway to get the 
+gzipped and can be unzipped. THis gets you some plain text but not an easy way to get the 
 files.
 
-Fortuntaly, there is a tool called DevXUnityUnpackerTools. This allows us to browse the contents of the file. Little looking and we find "goblin.png" Select it and we can "save as png" Hit that and now we just need to has the image with md5. 
+Fortuntaly, there is a tool called DevXUnityUnpackerTools. This allows us to browse the
+contents of the file. Little looking and we find "goblin.png" Select it and we can "save
+as a PNG" Hit that the is extracted and saved. 
+
+Now we just need to has the image with MD5. To do thatt I uploaded it to Cyber Chef and 
+set the recipie to "MD5" Bake and we are done.
