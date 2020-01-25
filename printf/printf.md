@@ -39,7 +39,7 @@ for a bit I found the flag.
 
 ![flag](./printf.png)
 
-Alternatively `strings` would've helped with the `-e l` which changes the 
+Alternatively `strings` with `-e l` would've helped which changes the 
 encoding to 16 bit little endian, which is what windows uses by default.
 
 ```
