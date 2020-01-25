@@ -24,7 +24,7 @@ Sweet! An unfinished game to break!
 Download the file and start up the game. 
 We got some basic controls. Left and right moment and a jump button. 
 So off we go following the signs giving us directions. A cliff we shouldn't 
-jump off? Lets do it. Ah goblins to kill us great. Well it seems they can't
+jump off? Lets do it. Ah goblins to kill us. Great. Well it seems they can't
 hurt us and we can't hurt them
 
 At this point I fire up cheat engine and start looking for something useful.
