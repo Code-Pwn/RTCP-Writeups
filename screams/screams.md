@@ -180,5 +180,5 @@ So here is the final image:
 And the flag is:
 
 ```
-rtcp{uh_oh_sister_342}
+rtcp{uh_oh_sisters_342}
 ```
