@@ -1,10 +1,10 @@
 # Sprite Viewer
 
-Catagory: Web
+* Catagory: Web
 
-Points: 400
+* Points: 400
 
-Solves: 37
+* Solves: 37
 
 I was asked to beta-test this game, but it's so incomplete, it's kind of
 doesn't even have a goal... The developer said there's a flag, though,
@@ -16,10 +16,12 @@ In Progress (400)
 Hint2:Have you ever played Skyrim? Well, you don't need a horse
 for this one.
 
+# Challange
+Sweet! An unfinished game to break!
 
 # Solution
 
-Sweet! An unfinished game to break! Download the file and start up the game. 
+Download the file and start up the game. 
 We got some basic controls. Left and right moment and a jump button. 
 So off we go following the signs giving us directions. A cliff we shouldn't 
 jump off? Lets do it. Ah goblins to kill us great. Well it seems they can't
