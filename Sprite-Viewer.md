@@ -1,4 +1,4 @@
-**Description**
+# Description
 
 The developer of that work in progress game thinks there may
 have been a bug on his end, and has asked us to get the md5
@@ -13,7 +13,7 @@ Hint2:Insert flag in MD5 format, without the rtcp{}:
 e7ad2f601c93ea0dab82416581db2dfd
 
 
-**Solution**
+# Solution
 
 The challenge loads up a Unity Web Player. It has a number of characters you can swap
 through. There are options to view different sprite animations. Looks like a character
