@@ -91,11 +91,11 @@ We then feed it into the model and extract the color:
 def test(content_size):
 """Stylize a content image"""
 
-	transformer = TransformerNet()
+    transformer = TransformerNet()
     transformer.load_state_dict(torch.load('Dream.pth'))
 
     content_transform = transforms.Compose([
-		transforms.Resize(content_size),
+	transforms.Resize(content_size),
         transforms.ToTensor(),
         transforms.Lambda(lambda x: x.mul(255))])
     content_image = load_image("input.png")
@@ -110,7 +110,7 @@ im = Image.open("output.png")
 arr = np.asarray(im)
 flag = "rtcp{"
 for i in arr[0,0,:]:
-	flag += hex(i)[2:]
+    flag += hex(i)[2:]
 flag += "}"
 print(flag)
 ```
