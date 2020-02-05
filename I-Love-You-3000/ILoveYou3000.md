@@ -9,7 +9,7 @@
 - submit in the form rtcp{OHMYGAWDTHISISAWHOLEWORD}
 
 ## Challenge
-The challenge gives us a bunch of numbers and it doesn't take long to figure out it's a book cipher. Book cipher requires a key and a book/novel/article. We have the key however finding the book/novel/article was the real challenge. I tried decoding the cipher with the whole and various other snippets of the Avengers:End Game movie script (I Love You 3000 is a line mentioned in the movie) but to no avail :(
+The challenge gives us a bunch of numbers and it doesn't take long to figure out it's a book cipher. Book cipher requires a key(s) and a book/novel/article. We have the keys however finding the book/novel/article was the real challenge. I tried decoding the cipher with the whole and various other snippets of the Avengers:End Game movie script (I Love You 3000 is a line mentioned in the movie) but to no avail :(
 
 Reading the title over and over again led me to look at it in a differnt perspective (As you should for CTFs) and figured maybe the challenge is actually loosely hinting to ILoveYou virus, which made more sense. Thinking the "book" in this case is probably the source code for the virus I did some quick googlefu and got what I needed:
 <https://raw.githubusercontent.com/onx/ILOVEYOU/master/LOVE-LETTER-FOR-YOU.TXT.vbs>
